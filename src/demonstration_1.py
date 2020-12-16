@@ -34,7 +34,11 @@ class MyHashTable:
     def __init__(self):
         # Your code here
 
+       
+    # Your code here
 
+    
+    
     def put(self, key, value):
         # Your code here
 
